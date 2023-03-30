@@ -1,3 +1,4 @@
 # myShoestore
 
-  https://deepaksharma1717.github.io/MyShoestore/
+  https://github.com/AbhisOjha/MyShoesstore.git
+  

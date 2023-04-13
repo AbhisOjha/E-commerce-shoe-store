@@ -1,4 +1,4 @@
 # myShoestore
 
-  https://abhisojha.github.io/MyShoesstore/
+  https://abhisojha.github.io/E-commerce-shoe-store/
   
